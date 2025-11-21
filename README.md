@@ -25,7 +25,7 @@ Dashboard Actions (Filter / Highlight)
 
 Table Calculation
 
-Story Page (if added)
+Story Page
 
 Repository Contents
 
@@ -33,7 +33,7 @@ data/ – Raw dataset used for analysis
 
 docs/ – BRD, FRD, storytelling documents
 
-tableau_workbook/ – TWBX workbook file
+tableau_workbook/ –
 
 screenshots/ – Dashboard screenshots for GitHub display
 
